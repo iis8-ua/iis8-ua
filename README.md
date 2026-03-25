@@ -11,7 +11,7 @@
 <p align="left">
 🎓 Estudiante de <strong>Grado en Ingeniería Informática</strong> en la Universidad de Alicante — actualmente en <strong>3er curso</strong>
 
-💻 Apasionado por el desarrollo de software y siempre aprendiendo nuevas tecnologías
+💻 Actualmente estoy aprendiendo sobre <strong>Ingenieria del Software</strong>
 
 🚀 En constante crecimiento, buscando aplicar mis conocimientos en proyectos reales
 
